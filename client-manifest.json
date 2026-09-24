@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "minecraft": "1.21.11",
+  "fabricLoader": "0.19.3",
+  "files": [
+    {
+      "path": "mods/Lumina (2).jar",
+      "url": "https://github.com/ТВОЙ_НИК/lumina-distribution/releases/download/v1.0.0/Lumina.jar",
+      "sha256": "ПОКА_СЮДА_SHA256"
+    }
+  ]
+}
