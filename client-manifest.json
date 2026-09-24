@@ -5,7 +5,7 @@
   "files": [
     {
       "path": "mods/Lumina (2).jar",
-      "url": "https://github.com/yyat0874-code/lumina-distribution/releases/download/v1.0.0/Lumina-1.0.0 (2).jar",
+      "url": "https://github.com/yyat0874-code/lumina-distribution/releases/tag/v1.0.0",
       "sha256": "4A15441EB812D639F7A81BBBBA9763B6347C34858F571ABD85AE2364B7A820D8"
     }
   ]
