@@ -10,3 +10,8 @@
     }
   ]
 }
+{
+  "path": "mods/fabric-api-0.141.6+1.21.11.jar",
+  "url": "https://github.com/yyat0874-code/lumina-distribution/releases/download/v1.0.0/fabric-api-0.141.6+1.21.11.jar",
+  "sha256": "3d379228d2b966956b227781c5db2ac8ad89428d4e1f98787baca332a97e9c5e"
+}
